@@ -1,4 +1,4 @@
-# Refactor LD
+# New Metrics
 Aquest repositori conté els arxius generats durant el Treball de Final de Grau (TFG). Inclou tant les mètriques desenvolupades com els tests associats, organitzats de manera estructurada per facilitar-ne la comprensió i reutilització.
 
 **Estructura del repositori**
